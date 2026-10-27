@@ -1,0 +1,30 @@
+# Local credentials and private configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.aws/
+.ssh/
+.codex/
+
+# Local dependencies and environments
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Editor, operating system, and temporary files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+~$*
