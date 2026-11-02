@@ -4,6 +4,10 @@
 
 Use an AI assistant to set up [TradingView MCP](https://github.com/tradesdontlie/tradingview-mcp) with Codex, then ask Codex to inspect and interact with charts in TradingView Desktop.
 
+[**Install with ChatGPT — Step-by-Step**](INSTALL-WITH-CHATGPT.md)
+
+**Start here:** [TradingView MCP installation video](https://youtu.be/dwptd_aNn6I) · [Trade With AM YouTube channel](https://www.youtube.com/@TradeWithAMTrading/videos)
+
 ## Start here
 
 ### 1. Installation master prompt
